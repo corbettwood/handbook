@@ -1,10 +1,10 @@
 # Guide to Your Equity
 
-There are currently **10,336,560** shares of Popular Pays common stock outstanding.
+There are currently **11,337,060** shares of Popular Pays common stock outstanding.
 
-We have not undergone a 409A valuation to determine the current strike price of Popular Pays stock.
+We have not undergone a 409A valuation to determine the current strike price of Popular Pays stock, but we are planning on doing so in 2016.
 
-**This guide is meant to help you understand the piece of Popular Pays that you’re going to own!** Its goal is to be more straightforward than the full Stock Incentive Plan and Award Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
+**This guide is meant to help you understand the piece of Popular Pays that you’re going to own!** Its goal is to be more straightforward than the full Stock Option Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Popular Pays gives you a stake in our success. As Popular Pays grows and increases in value, you will own a piece of that growth and increased value. Popular Pays is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Popular Pays decreases in value, then your options won’t be worth anything.
 
@@ -20,7 +20,7 @@ If we gave you $10,000 worth of Popular Pays stock today, you would have to pay 
 
 Instead of giving you all of your options on day one, you get them over time. This process is called vesting and different companies offer vesting schedules of different lengths. If you had a basic 4 year vesting period, you would own a quarter of your stock after 1 year, half of your stock after 2 years, and all of it after 4 years.
 
-(The industry standard right now is 4 years.) We will also offer stock refreshers every two years – many companies do not. Vesting happens on a monthly basis (so you vest 1/48 of your options each month), and it includes a 1 year cliff. 
+(The industry standard right now is 4 years.) We will also offer stock refresher grants so you don't run out after 4 years – many companies do not. Vesting happens on a monthly basis (so you vest 1/48 of your options each month), and it includes a 1 year cliff. 
 
 A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead vests at the end. At most companies, including Popular Pays, this cliff happens at one year. This means that if you leave your job before you’ve worked for a whole year, none of your options will be vested. At the end of that year, you’ll vest the entire year’s worth of equity all at once. This helps keep the ownership of Popular Pays stock to folks who have worked at the company for a meaningful amount of time.
 
@@ -30,7 +30,7 @@ When Popular Pays raises money from outside investors, it needs to create new st
 
 If we get a fair valuation for the company, then the value of your options stay the same when we raise outside money because the company’s new valuation will be equal to the old value of the company + the new capital raised. For example, if Popular Pays is worth $20m and we raise $5m, we are now worth $25m. If you owned 5% of $20m before, you now own 4% of $25m (we sold 20% of the company, or, said differently, diluted you by 20%). The 5% stake was worth $1m before the fundraise and the 4% stake is now worth $1m.
 
-You can also be diluted as we give equity to employees. Popular Pays gives stock option grants to new employees out of an option pool, or a group of options that the Popular Pays board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Popular Pays’ current option pool is intended to cover the next 6 hires (#'s 16-21) before it needs to be refreshed. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
+You can also be diluted as we give equity to employees. Popular Pays gives stock option grants to new employees out of an option pool, or a group of options that the Popular Pays board of directors creates all at once. This means that you will not be diluted each time we hire a new employee, but only when we need to create a new option pool. Popular Pays’ current option pool, created in March 2016, is intended to cover the next 2 years of hires before it needs to be refreshed. For some high-level executive hires, the board might approve stock option grants outside of the equity pool. In both cases, the hope is that employees add more value to the company than the equity they receive.
 
 Investor dilution won’t affect the value of your stock, but the valuation that we raise money at definitely will. Valuations (how much a company is worth) in private markets are highly unpredictable and subjective -- a share of Popular Pays stock is worth whatever someone will pay for it. Competition between investors, general market performance, perceived future value, and our negotiation skills all play into that valuation and the value of your options will be affected by those forces.
 
@@ -62,17 +62,18 @@ This changes if you exercise stock less than 2 years after the grant was made be
 
 When Popular Pays raises outside capital, investors will buy a form of Preferred Stock that gives them special rights on top of their ownership of the business. Each subsequent round of funding will create a new class of stock with its own rights -- these are usually named by the rounds of funding (ex. Series A Preferred Stock, Series B Preferred Stock, etc.). Here is an examples that preferred stock may have:
 
-**Liquidation preferences:** In a liquidation event (Popular Pays is sold or goes public), investors with liquidation preferences get paid back first. These favor the investor. For instance, if our Series A investors invested $5m with a 1x liquidation preference and Popular Pays was bought, then $5m would go back to the Series A investors before anyone else got any money back. If Popular Pays was sold for $5m or less, that would mean that everyone with common stock (founders and employees) would get nothing. If Popular Pays sold for $10m, then $5m would be distributed among the common stockholders.
+**Liquidation preferences:** With the liquidation preferences our investors have, in the event Popular Pays is sold or goes public, the investors could choose to get their money back or convert their Preferred Stock into Common Stock at a 1:1 ratio. In the event of a sale for a low value, like if Popular Pays raised $5m in capital at a $20m valuation and sold for $10m, investors could get their $5m back and the remaining money would be split between the rest of the Common Stock holders. If Popular Pays was sold for $5m or less, that would mean that everyone with Common Stock (founders and employees) would get nothing.
 
 ## Outstanding Convertible Notes
 
-Popular Pays has raised $2,738,450 to date:
-> $675,000 as Convertible Notes that converted to Preferred Stock upon our C Corp transition
-> $2,000,000.00 as Y Combinator SAFEs (similar to convertible notes)
-> $81,450 from an AngeList syndicate via a YC SAFE
+Popular Pays has raised $2,988,450 to date:
+> $675,000 as Convertible Notes that converted to Preferred Stock upon our C Corp transition on 12/19/15. 
+> $2,000,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2016. 
+> $81,450 from an AngeList syndicate via a YC SAFE in April 2016. 
+> $250,000 on a SAFE in February 2016. 
 
 Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount or a cap.The cap is a maximum valuation that the first investors will have to pay for the stock.  
 
-Our last fundraise (some of the YC SAFEs and the AL syndicate) occured at a $12m valuation. 
+Our last fundraise ($250,000) occured at a $18m valuation. 
 
 Anyone is always welcome to ask Corbett (CEO) any questions about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
