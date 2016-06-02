@@ -2,15 +2,15 @@
 
 There are currently **11,337,060** shares of Popular Pays common stock outstanding.
 
-We have not undergone a 409A valuation to determine the current strike price of Popular Pays stock, but we are planning on doing so in 2016.
-
 **This guide is meant to help you understand the piece of Popular Pays that you’re going to own!** Its goal is to be more straightforward than the full Stock Option Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
 Owning stock in Popular Pays gives you a stake in our success. As Popular Pays grows and increases in value, you will own a piece of that growth and increased value. Popular Pays is pretty small today, but if things go well, your stock could be worth many times more. However, you are gambling with this portion of your compensation -- if Popular Pays decreases in value, then your options won’t be worth anything.
 
 ## Stock Options
 
-At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19).
+At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19). 
+
+Popular Pays underwent a 409A valuation in May '16 that valued common stock at $.52 per share. This means that to excercise your stock, you'd need to pay $.52 per share. If you had 1 share, excercised it, and sold it for $1, then you'd keep $.48. See the "409a" section below. 
 
 The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
 
