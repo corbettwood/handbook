@@ -1,6 +1,6 @@
 # Guide to Your Equity
 
-There are currently **11,337,060** shares of Popular Pays common stock outstanding.
+There are currently **11,652,322** shares of Popular Pays stock outstanding.
 
 **This guide is meant to help you understand the piece of Popular Pays that you’re going to own!** Its goal is to be more straightforward than the full Stock Option Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
@@ -10,11 +10,11 @@ Owning stock in Popular Pays gives you a stake in our success. As Popular Pays g
 
 At Popular Pays, we give equity grants in the form of Incentive Stock Options (ISOs). It’s called an option because you have the *option* to buy Popular Pays stock later at the same price it was worth when the option was granted. So if a share of Popular Pays stock is worth $1 today and we grow so it’s worth $20 in a few years, you’ll still be able to buy it for $1 (and then sell it immediately for a profit of $19). 
 
-Popular Pays underwent a 409A valuation in May '16 that valued common stock at $.52 per share. This means that to excercise your stock, you'd need to pay $.52 per share. If you had 1 share, excercised it, and sold it for $1, then you'd keep $.48. See the "409a" section below. 
+The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it. If we gave you $10,000 worth of Popular Pays stock today, you would have to pay thousands of dollars in taxes this year. If we give you options for $10,000 worth of stock, you don’t have to pay any taxes until you exercise them (more on exercising later).
 
-The reason we give stock options instead of straight stock is that it keeps you from being taxed on the stock until you actually use it.
+## 409a
+Popular Pays underwent a 409A valuation in May 2016 that valued common stock at $.52 per share. This means that to excercise your stock, you'd need to pay $.52 per share. If you had 1 share, excercised it, and sold it for $1, then you'd keep $.48. See the "409a" section below. 
 
-If we gave you $10,000 worth of Popular Pays stock today, you would have to pay thousands of dollars in taxes this year. If we give you options for $10,000 worth of stock, you don’t have to pay any taxes until you exercise them (more on exercising later).
 
 ## Vesting
 
@@ -66,14 +66,14 @@ When Popular Pays raises outside capital, investors will buy a form of Preferred
 
 ## Outstanding Convertible Notes
 
-Popular Pays has raised $2,988,450 to date:
+Popular Pays has raised $3,113,450 to date:
 >1. $675,000 as Convertible Notes that converted to Preferred Stock upon our C Corp transition on 12/19/15.
->2. $2,000,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2016. 
->3. $81,450 from an AngeList syndicate via a YC SAFE in April 2016. 
->4. $250,000 on a SAFE in February 2016. 
+>2. $2,000,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2015. 
+>3. $81,450 from an AngeList syndicate via a YC SAFE in April 2015. 
+>4. $375,000 on a SAFE in Q1/Q2 2016. 
 
 Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount or a cap.The cap is a maximum valuation that the first investors will have to pay for the stock.  
 
-Our last fundraise ($250,000) occured at a $18m valuation. 
+Our last fundraise ($375,000) occured at a $15m valuation. 
 
 Anyone is always welcome to ask Corbett (CEO) any questions about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
