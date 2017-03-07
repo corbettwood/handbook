@@ -74,6 +74,4 @@ Popular Pays has raised $3,113,450 to date:
 
 Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount or a cap.The cap is a maximum valuation that the first investors will have to pay for the stock.  
 
-Our last fundraise ($375,000) occured at a $15m valuation. 
-
 Anyone is always welcome to ask Corbett (CEO) any questions about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
