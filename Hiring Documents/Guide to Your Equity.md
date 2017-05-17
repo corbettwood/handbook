@@ -67,14 +67,15 @@ When Popular Pays raises outside capital, investors will buy a form of Preferred
 ## Outstanding Convertible Notes
 
 Popular Pays has raised $6,016,450 to date:
->1. $675,000 as Convertible Notes that converted to Preferred Stock upon our C Corp transition on 12/19/15.
+>0. $100,000 as Common Stock (units in our LLC before the C Corp conversion) in August 2013. 
+>1. $675,000 as Convertible Notes raised in 2014 that converted to Preferred Stock upon our C Corp transition on 12/19/15.
 >2. $2,020,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2015. 
 >3. $81,450 from an AngeList syndicate via a YC SAFE in April 2015. 
 >4. $990,000 via SAFE notes in Q4'16/Q1'17
->5. $2,150,000.00 as Preferred Stock in our Series A raise in March'17. 
+>5. $2,150,000.00 as Preferred Stock in our Series A raise in March 2017. 
 
 Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount or a cap. The cap is a maximum valuation that the first investors will have to pay for the stock.  
 
-Numbers 2 through 4 (above) all converted from debt to equity during our Series A round in March'17. 
+Numbers 2–4 (above) all converted from debt to equity during our Series A round in March'17. 
 
 Anyone is always welcome to ask Corbett (CEO) any questions about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
