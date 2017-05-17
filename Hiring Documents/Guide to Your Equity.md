@@ -1,6 +1,6 @@
 # Guide to Your Equity
 
-There are currently **11,652,322** shares of Popular Pays stock outstanding.
+There are currently **21,314,052** shares of Popular Pays stock outstanding.
 
 **This guide is meant to help you understand the piece of Popular Pays that you’re going to own!** Its goal is to be more straightforward than the full Stock Option Agreement, which both go into the full legal details. You should consult an employment attorney if you have any questions about navigating your stock options and before you make important decisions.
 
@@ -66,12 +66,15 @@ When Popular Pays raises outside capital, investors will buy a form of Preferred
 
 ## Outstanding Convertible Notes
 
-Popular Pays has raised $3,113,450 to date:
+Popular Pays has raised $6,016,450 to date:
 >1. $675,000 as Convertible Notes that converted to Preferred Stock upon our C Corp transition on 12/19/15.
->2. $2,000,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2015. 
+>2. $2,020,000.00 as Y Combinator SAFEs (similar to convertible notes) in March/April 2015. 
 >3. $81,450 from an AngeList syndicate via a YC SAFE in April 2015. 
->4. $375,000 on a SAFE in Q1/Q2 2016. 
+>4. $990,000 via SAFE notes in Q4'16/Q1'17
+>5. $2,150,000.00 as Preferred Stock in our Series A raise in March'17. 
 
-Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount or a cap.The cap is a maximum valuation that the first investors will have to pay for the stock.  
+Convertible notes are a popular way for startups to raise money because they let you delay picking a valuation for your company. Instead of selling equity for a fixed price, we borrow the money as debt. Then, next time we raise money, that debt converts to equity at a discount or a cap. The cap is a maximum valuation that the first investors will have to pay for the stock.  
+
+Numbers 2 through 4 (above) all converted from debt to equity during our Series A round in March'17. 
 
 Anyone is always welcome to ask Corbett (CEO) any questions about their options, Popular Pays’s fundraising, or anything else related to equity at Popular Pays. However, everyone should also consult a lawyer before making important financial decisions, especially regarding their equity because there are complex legal and tax requirements that may apply.
